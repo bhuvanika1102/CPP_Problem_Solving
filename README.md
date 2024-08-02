@@ -21,10 +21,9 @@ To get started with the repository, follow these steps:
 2. **Navigate to the Repository**:
       ```sh
    cd problem_solving
-3. **Build and Run**:
-      ```sh
-   g++ -o main main.cpp
-    ./main  
+3. **Compile and Run**:
+      
+     
   
 ## Contact
 For any questions or comments, please reach out bhuvani1102@gmail.com.
