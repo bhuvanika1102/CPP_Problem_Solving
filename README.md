@@ -17,7 +17,7 @@ To get started with the repository, follow these steps:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/bhuvanika1102/cpp.git
+   git clone https://github.com/bhuvanika1102/CPP_Problem_Solving.git
 2. **Navigate to the Repository**:
       ```sh
    cd problem_solving
